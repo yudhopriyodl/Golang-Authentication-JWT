@@ -1,15 +1,15 @@
-# Golang Authentication with JWT
+# 🔐 Golang Authentication with JWT
 
 This project implements a simple authentication system using Golang and JSON Web Tokens (JWT). It provides endpoints for user registration, login, and accessing protected resources.
 
-## Features
+##  Features
 
 *   User Registration
 *   User Login
 *   JWT-based Authentication
 *   Protected Routes
 
-## Installation
+## ⚙️ Installation
 
 To get started with this project, follow these steps:
 
@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
     ```
     Replace `your_super_secret_jwt_key` with a strong, random secret key.
 
-## Usage
+## 🚀 Usage
 
 1.  **Run the application:**
 
@@ -73,7 +73,7 @@ To get started with this project, follow these steps:
         Headers:
         `Authorization: Bearer <your_jwt_token>`
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```
 .
