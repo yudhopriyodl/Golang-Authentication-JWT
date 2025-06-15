@@ -16,8 +16,8 @@ To get started with this project, follow these steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/golang-authentication-jwt.git
-    cd golang-authentication-jwt
+    git clone https://github.com/yudhopriyodl/Golang-Authentication-JWT
+    cd Golang-Authentication-JWT
     ```
 
 2.  **Install dependencies:**
